@@ -1,4 +1,4 @@
-# Vending-Machine
+# Vending Machine simulator
 
 ### For launching Vending Machine with UI — run `app.py`
 You will need to install PyQt5:
