@@ -10,16 +10,14 @@ pip install PyQt5
 
 
 ## Problem Statement
-You need to design a Vending Machine which
-Accepts coins of 1,5,10,25 Cents i.e. penny, nickel, dime, and quarter.
-Allow user to select products Coke(25), Pepsi(35), Soda(45)
+You need to design a Vending Machine which accepts coins of 1,5,10,25 Cents i.e. penny, nickel, dime, and quarter.
+Allow user to select products Coke(25), Pepsi(35), Soda(45).
 Allow user to take refund by canceling the request.
 Return selected product and remaining change if any.
-While a UI would be awesome, the expectation is that this is a program
-run on the command-line, which will accept input via keyboard.
+While a UI would be awesome, the expectation is that this is a program run on the command-line, which will accept input via keyboard.
 Choose what language you want, extra credit for Python 3.
 
-##Expected results:
+### Expected results:
 ```
 >>> python3 VendingMachine.py
 >>> Vending Machine> What would you like to drink?
