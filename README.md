@@ -1,12 +1,15 @@
 # Vending-Machine
 
-##For launching Vending Machine with UI — run app.py
-You will need to install PyQt5: pip install PyQt5
+## For launching Vending Machine with UI — run `app.py`
+You will need to install PyQt5:
+```
+pip install PyQt5
+```
 
-##For launching text version of Vending Machine — run VendingMachine.py
+## For launching text version of Vending Machine — run `VendingMachine.py`
 
 
-##Problem Statement
+## Problem Statement
 You need to design a Vending Machine which
 Accepts coins of 1,5,10,25 Cents i.e. penny, nickel, dime, and quarter.
 Allow user to select products Coke(25), Pepsi(35), Soda(45)
